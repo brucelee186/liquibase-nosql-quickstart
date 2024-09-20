@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
 public class LiquibaseCosmosIntegrationTest {
 
     //public static final String URL = "mongodb://localhost:C2y6yDjf5%2FR%2Bob0N8A7Cgv30VRDJIWEHLM%2B4QDU5DE2nQ9nDuVTqobD4b8mGGyPMbIZnqyMsEcaGQy67XIw%2FJw%3D%3D@localhost:10255/mongo?ssl=true";
-    public static final String URL = "mongodb://localhost:27017/cuss";
+    public static final String URL = "mongodb://localhost:27017/liquibase";
 
     @Test
     @Disabled

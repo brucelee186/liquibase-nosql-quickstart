@@ -3,7 +3,7 @@
     {
       "changeSet": {
         "id": "1",
-        "author": "Alex",
+        "author": "Neo",
         "comment": "Update old people address",
         "changes": [
           {

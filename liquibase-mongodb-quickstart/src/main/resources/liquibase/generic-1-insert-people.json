@@ -3,7 +3,7 @@
     {
       "changeSet": {
         "id": "1",
-        "author": "Alex",
+        "author": "Neo",
         "comment": "Create person collection",
         "changes": [
           {
@@ -46,7 +46,7 @@
     {
       "changeSet": {
         "id": "2",
-        "author": "Alex",
+        "author": "Neo",
         "comment": "Create person index",
         "changes": [
           {
