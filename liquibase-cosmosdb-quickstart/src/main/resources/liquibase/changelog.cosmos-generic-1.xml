@@ -24,7 +24,7 @@
         xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd
         http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
 
-    <changeSet id="1" author="alex">
+    <changeSet id="1" author="Neo">
         <comment>Create animal container</comment>
 
         <ext:createContainer containerName="animal">
@@ -56,7 +56,7 @@
 
     </changeSet>
 
-    <changeSet id="2" author="alex">
+    <changeSet id="2" author="Neo">
 
         <comment>Insert animals</comment>
 
@@ -111,7 +111,7 @@
 
     </changeSet>
 
-    <changeSet id="3" author="alex">
+    <changeSet id="3" author="Neo">
 
         <comment>Update all Mammals population and region</comment>
 
